@@ -17,6 +17,7 @@
   </dependencies>
   <build>
     <finalName>maven_javawebtest</finalName>
+
     <plugins>
       <plugin>
         <groupId>org.apache.tomcat.maven</groupId>
